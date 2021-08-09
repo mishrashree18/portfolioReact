@@ -21,7 +21,7 @@ const Footer = ({ data }) => {
 
           <ul className="copyright">
             <li>
-              Made with Love by{" "}
+              Made with 💙 by{" "}
     
               <a title="shree" href="http://mishrashree18.bio.link">
                 Shree
